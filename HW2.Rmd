@@ -43,6 +43,7 @@ fertil2 <- read_csv("https://raw.githubusercontent.com/tpemartin/github-data/mas
 The data includes, for women in Botswana during 1988, information on number of children, years of education, age, and religious and economic status variables.
 
 
+
 ## 1.1
 Estimate the model:
 $$children=\beta_{0}+\beta_{1}educ+\beta_{2}age+\beta_{3}age^{2}+u$$
